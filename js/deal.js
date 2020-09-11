@@ -38,6 +38,7 @@ class Deal{
         this.greeting.position(displayWidth/2-150,displayHeight/2-150)
         this.greeting.style('fontSize','30px')
         this.greeting.style('color','green')
+        this.formEnd.show();
         this.formEnd.position( displayWidth-300,displayHeight/2+100)
         this.formEnd.style('color','orange');
         this.show.hide();
