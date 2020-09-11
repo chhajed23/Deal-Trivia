@@ -18,7 +18,7 @@ class Deal{
     this.noDeal.position(displayWidth/2 - 30, displayHeight/2-95);
     this.noDeal.style('color','green');
     this.noDeal.class('button');
-    this.showAdd.html("If you press the average will be added to your score")
+    this.showAdd.html("If you press Deal-the average will be added to your score")
     this.showAdd.position(displayWidth/2 - 330, displayHeight/2-5)
     this.showAdd.style('color','#F47C80')
     this.showAdd.style('fontSize','30px')
