@@ -44,7 +44,7 @@ class Form{
             this.greeting2.html( " Rack Your Brains to be Victorious" )
             this.greeting2.position(displayWidth/2 + 400, displayHeight/4+95);
             this.greeting2.style('color','#9390B0')
-            this.greeting3.html( "just click on the button to start " )
+            this.greeting3.html( "Just click on the button to start " )
             this.greeting3.position(displayWidth/2 + 400, displayHeight/4+160);
             this.greeting3.style('color','#9390B0')
             starting.play();
